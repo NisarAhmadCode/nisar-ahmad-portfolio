@@ -242,9 +242,9 @@ nisar-ahmad-portfolio/
 
 ## 🔗 Connect With Me
 
-* **GitHub:** [Your GitHub Profile](https://github.com/)
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
-* **Instagram:** [Your Instagram](https://www.instagram.com/)
+* **GitHub:** (https://github.com/NisarAhmadCode)
+* **LinkedIn:** (https://www.linkedin.com/in/nisar-ahmad-webdev/)
+* **Instagram:** (https://www.instagram.com/n4_nisarr/)
 
 ---
 
